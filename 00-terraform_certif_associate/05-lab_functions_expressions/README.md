@@ -34,6 +34,9 @@
 * **Clone Terraform Code and Switch to Proper Directory**
 
 * **Examine the Code in the Files**
+```bash
+chmod +x script.sh
+```
 
 * **Review and Deploy the Terraform Code**
 
